@@ -15,4 +15,3 @@ This project uses a webcam to detect hand gestures and display corresponding ima
 - NumPy
 - [HandTrackingModule](HandTracking_module.py)
 
->
