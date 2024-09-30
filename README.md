@@ -13,6 +13,6 @@ This project uses a webcam to detect hand gestures and display corresponding ima
 - OpenCV
 - MediaPipe
 - NumPy
-- [HandTrackingModule](HandTrackingModule.py)
+- [HandTracking_module](HandTrackingModule.py)
 
 >
